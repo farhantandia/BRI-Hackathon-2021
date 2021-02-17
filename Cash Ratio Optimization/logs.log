@@ -1,0 +1,69 @@
+2021-02-16 13:59:24,443; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 13:59:24,445; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 13:59:24,470; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 13:59:24,470; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 13:59:24,764; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2021-02-16 14:00:57,724; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:00:57,727; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:00:57,748; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:00:57,750; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:00:57,993; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 3.51E-01
+2021-02-16 14:06:16,809; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:06:16,811; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:06:16,835; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:06:16,837; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:06:17,088; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.23E-01
+2021-02-16 14:18:23,247; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:18:23,249; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:18:23,269; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:18:23,272; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:18:23,512; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2021-02-16 14:26:45,814; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:26:45,816; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:26:45,836; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:26:45,838; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:26:46,070; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 4.33E-01
+2021-02-16 14:35:52,601; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:35:52,603; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:35:52,621; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:35:52,622; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:35:52,856; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.31E-01
+2021-02-16 14:47:27,210; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:47:27,212; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:47:27,233; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:47:27,234; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:47:27,467; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.31E-01
+2021-02-16 14:48:13,791; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:48:13,793; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:48:13,812; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:48:13,813; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:48:14,047; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.52E-02
+2021-02-16 14:55:19,466; ERROR; nprophet.df_utils; get_normalization_params; Normalization min-max not defined.
+2021-02-16 14:55:19,470; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:55:19,471; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:55:19,492; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:55:19,494; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:55:19,735; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 5.34E-03
+2021-02-16 14:56:13,703; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:56:13,705; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:56:13,969; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 3.51E-01
+2021-02-16 14:56:32,391; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:56:32,393; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:56:32,415; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:56:32,416; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:56:32,652; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 8.11E-03
+2021-02-16 14:56:48,451; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 14:56:48,453; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 14:56:48,472; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 14:56:48,475; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 14:56:48,708; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 6.58E-03
+2021-02-16 15:01:59,723; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 15:01:59,726; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 15:01:59,744; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 15:01:59,745; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 15:01:59,978; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 2.85E-01
+2021-02-16 19:03:21,194; INFO; nprophet.utils; set_auto_seasonalities; Disabling yearly seasonality. Run NeuralProphet with yearly_seasonality=True to override this.
+2021-02-16 19:03:21,196; INFO; nprophet.utils; set_auto_seasonalities; Disabling daily seasonality. Run NeuralProphet with daily_seasonality=True to override this.
+2021-02-16 19:03:21,215; INFO; nprophet.config; set_auto_batch_epoch; Auto-set batch_size to 8
+2021-02-16 19:03:21,216; INFO; nprophet.config; set_auto_batch_epoch; Auto-set epochs to 94
+2021-02-16 19:03:21,471; INFO; nprophet; _lr_range_test; learning rate range test found optimal lr: 1.00E-01
