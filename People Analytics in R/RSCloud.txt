@@ -1,0 +1,16 @@
+======= GUIDE TO RSTUDIO CLOUD =======
+
+Untuk yang ingin mengikuti materi tetapi belum menginstall Rstudio silahkan ikut langkah berikut:
+
+0. Pastikan sudah mendownload materi People Analytics.zip
+1. Buka link berikut https://rstudio.cloud/ dan klik "Sign Up"
+2. Pilih availiable plans yang "free" dan sign up
+3. Registrasi masing-masing baik menggunakan email atau sign up with google atau github
+4. ketika sudah masuk ke workspace, tekan "New Project". Tunggu sampai project baru dibuat
+5. Ketika sudah selesai, upload file materi dengan cara:
+	- Klik "Upload" di panel 4 (kanan bawah) (dibawah tulisan packages)
+	- pilih file "People Analytics.zip" di direktori masing-masing lalu ok
+6. Ketika panel "Files" sudah menunjukkan beberapa file, buka file People_Analytic.Rmd"
+7. Sebelum mulai silahkan install seluruh library yang dibutuhkan dengan run chunk di line 66
+
+Tanyakan ke TA yang bertugas jika ada kendala
